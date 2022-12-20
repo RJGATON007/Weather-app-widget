@@ -1,6 +1,6 @@
 body {
   font-family: "Titillium Web", sans-serif;
-  color: #636363;
+  color: navy;
 }
 
 .container {
@@ -19,7 +19,7 @@ body {
 }
 
 .fas {
-  color: #636363;
+  color: navy;
 }
 
 .search-box,
